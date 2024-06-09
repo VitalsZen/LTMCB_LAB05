@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkLAkIaEMIjvglxH9siPTpcFKpUQVh2z4rI9NSPc/FQ/pLVD6wIKKkUVEWUZr4Io6Ggue43j2i9yDnP+5qgk/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Computer\\UIT\\HK4\\Lap trinh mang can ban\\Thuchanh\\Lab5\\Lab05\\Bai04\\Bai04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\mailkit\\4.6.0\\mailkit.4.6.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\mimekit\\4.6.0\\mimekit.4.6.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\urlbase64\\2.0.0\\urlbase64.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
